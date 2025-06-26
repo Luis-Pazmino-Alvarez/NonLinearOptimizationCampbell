@@ -51,3 +51,10 @@ Ensure pyomo and ipopt are installed (automatically handled in Colab).
 
 Execute cells sequentially.
 
+📝 License Distributed under the GNU GPL 3.0 License.
+
+📬 Contact 
+
+Created by Luis Pazmino Alvarez, consultant in finance, economics, and predictive modeling. 
+Connect with me on LinkedIn https://www.linkedin.com/in/luis-pazmino-702838248/.
+
